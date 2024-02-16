@@ -5,7 +5,7 @@ public void setup() {
 
 public void draw() {
   noFill();
-  stroke(255);
+  stroke(75,10,40);
   fractal(200,200,200);
 }
 
